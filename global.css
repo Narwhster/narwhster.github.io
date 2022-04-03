@@ -1,0 +1,22 @@
+body {
+    background-color: #012a4a;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Raleway', sans-serif;
+    color: #012a4a;
+    cursor: default;
+    margin-top: 25px;
+	margin-bottom: 20px;
+}
+
+p {
+    font-family: 'Varela Round', sans-serif;
+    font-size: larger;
+    color: #013A63;
+    cursor: default;
+}
+
+.light-text{
+    color: #89C2D9;
+}
